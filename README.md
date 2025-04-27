@@ -1,3 +1,15 @@
-# Hospital-bill-Discrepancies
-###The healthcare landscape presents a complex interplay between patient severity, hospital bill  charges, and treatment costs. This research aims to explore the intricate relationships between  these factors, ###investigating how patient severity, insurance utilization, patient mortality rates  and treatment costs influence hospital bill charges. The primary objective of this research is to  determine the impact on ###patient severity, able to benefit from health insurance services, and  treatment cost on hospital bill charges and mortality rates. This paper studies the vigorous  difference of the hospital bills which are ###payable between the insurance holders and the self payers in a large state Medicaid program. This dataset has the distribution of patient  characteristics, costs, and bill charges across insurance groups and ###severity levels. To  understand the patient severity, insurance status, treatment cost, and hospital bill charges,  controlling for relevant confounders like age, gender, and comorbidities. This paper estimates ###the impact of patient severity, insurance status, and hospital bill charges on in-hospital  mortality using Random Forest, classification Tree algorithm, Neural networks and SVMs.  Then evaluating the feature ###importance using the ExplainbleAI models. These results can 
-###deliver the healthcare field towards preventive treatment towards affordable healthcare bills and provide care more effectively.
+# Objective
+
+## To identify treatment inefficiencies and billing discrepancies in healthcare systems by applying machine learning models, aiming to drive operational improvements and transparency.
+
+
+![Objective - visual selection](https://github.com/user-attachments/assets/ee5c362d-b13c-4844-813c-564104abbde3)
+
+## Problem Statement
+
+#### Healthcare institutions often face challenges such as variability in treatment outcomes, systematic billing errors across different payment types, and disparities in billing amounts based on insurance coverage. This project addresses these issues by predicting treatment outcomes, detecting billing errors, and analyzing patterns of billing disparities using Random Forest and Gradient Boosting models, supported by explainable AI techniques like SHAP, LIME, and ELI5.
+
+![Objective - visual selection (1)](https://github.com/user-attachments/assets/b6647dee-6d57-4e7d-8e90-32dc0d75356d)
+
+![Objective - visual selection (2)](https://github.com/user-attachments/assets/ad3f74f8-bb68-4d6d-8bed-9eb7ceee3399)
+
